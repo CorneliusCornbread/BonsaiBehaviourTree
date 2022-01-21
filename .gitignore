@@ -74,3 +74,6 @@ LICENSE*.meta
 README*.meta
 
 /Experimental*
+
+# Ignore rider files
+/.idea
